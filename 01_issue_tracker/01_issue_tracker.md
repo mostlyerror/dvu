@@ -29,7 +29,7 @@ It's up to you what data structures to use, what the functions are called,
 and how they should be called, etc. Approach the design like you're building
 a library for someone else to use.
 
-**Issues do not need to persist between browser sessions!**
+**Issues do not need to persist between browser sessions!** If the browser is reload, it's ok that the data is wiped out; everything can live in memory.
 
 ### Hints
 You'll probably want to be familiar with some array methods like `filter`, `sort`, `push`, `splice`
