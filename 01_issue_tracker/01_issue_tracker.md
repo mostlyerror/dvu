@@ -9,20 +9,13 @@ ways you haven't seen before.
 #### Using the javascript console, users should be able to:
 
 * Add an Issue with name, description, severity (low, medium, high)
-*  Issues should default to "unresolved" status until marked otherwise
+* Issues should default to "unresolved" status until marked otherwise
 * Issues should be unassigned by default
 * Issues should have an ID field that is unique across all issues.
-
 * List "Open" (unresolved) Issues, sorted by severity
-
 * "Close" an issue (mark as resolved)
-
-* Update a specific Issue's description
-
-* Update a specific Issue's severity
-
+* Update a specific Issue's name, description, and/or severity
 * Assign an issue to somebody (this can just be a person's name as a string)
-
 
 ### Notes
 It's up to you what data structures to use, what the functions are called,
