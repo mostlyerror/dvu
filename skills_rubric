@@ -1,0 +1,59 @@
+javascript
+...
+* es5
+  * forEAch loops
+  * const, let, var
+* es6
+  * for (thing in thing) loops
+  * (arrow) => functions
+  * destructuring
+
+OOP
+* encapsulation
+  * data-hiding
+  * public vs private methods
+  * classes
+  * inheritance
+
+datastores
+* in-memory
+  * Arrays
+* browser
+  * localStorage
+  * cookies
+* NOSQL
+  * Redis
+  * MongoDB
+* RDBMS
+  * database servers
+    * postgres, mysql
+  * file-based
+    * sqlite
+
+APIs
+* http
+  * verbs
+  * REST
+  * ajax
+    * async
+
+WebApps
+* HTML
+  * semantic elements
+  * accessibility
+* CSS
+* DOM
+* package managers - npm, yarn
+
+* writing "good" code
+  * formatting
+  * testability
+  * if/else -> switch 
+  * switch -> obj dispatch
+  * combining functions
+  * un-combining functions
+  * naming
+
+* source code management
+  * git
+  * VCS - github, bitbucket
